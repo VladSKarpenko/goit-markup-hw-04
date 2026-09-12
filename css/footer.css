@@ -1,0 +1,16 @@
+.footer {
+  background-color: #2e2f42;
+
+  padding: 100px 0;
+}
+
+.footer-link {
+  color: #f4f4fd;
+  display: block;
+  margin-bottom: 16px;
+  padding: 0;
+}
+.footer-desc {
+  color: #f4f4fd;
+  max-width: 264px;
+}
