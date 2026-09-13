@@ -30,7 +30,7 @@
 }
 .social-list {
   display: flex;
-  gap: 24px;
+  gap: 16px;
   flex-wrap: wrap;
 }
 .social-item {
@@ -50,7 +50,7 @@
   transition-property: background-color;
 }
 .social-icon {
-  color: #ffffff;
+  color: #f4f4fd;
 }
 .social-link:hover,
 .social-link:focus {

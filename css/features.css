@@ -13,11 +13,16 @@
 .icon-wrapper {
   border: 1px solid #8e8f99;
   border-radius: 4px;
+  height: 112px;
+  width: 100%;
   background-color: #f4f4fd;
   margin-bottom: 8px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .features-icon {
-  margin: 24px 100px;
 }
 .features-subtitle {
   font-weight: 500;
